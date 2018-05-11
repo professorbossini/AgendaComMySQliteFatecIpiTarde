@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaComMySQliteFatecIpiTarde</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_adicionar_contatos">AdicionarContatosActivity</string>
+    <string name="dica_nome">Digite o nome</string>
+    <string name="dica_fone">Digite o telefone</string>
+    <string name="dica_email">Digite o email</string>
+    <string name="contato_adicionado">Contado adicionado</string>
+</resources>
